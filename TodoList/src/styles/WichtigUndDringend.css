@@ -1,0 +1,7 @@
+.wichtig-und-dringend {
+  border: 1px solid blue;
+  display: flex;
+  flex-direction: column;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
